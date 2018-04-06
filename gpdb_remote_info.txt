@@ -1,1 +1,1 @@
-,https://github.com/?/gpdb
+remove_distinct_rewrite,https://github.com/hardikar/gpdb
