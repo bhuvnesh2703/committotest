@@ -1,1 +1,1 @@
-fix-analyze-priv,https://github.com/bhuvnesh2703/gpdb
+fix-analyze-5x,https://github.com/bhuvnesh2703/gpdb
