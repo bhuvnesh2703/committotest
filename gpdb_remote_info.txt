@@ -1,1 +1,1 @@
-5X_STABLE,https://github.com/melanieplageman/gpdb
+staging_5X,https://github.com/melanieplageman/gpdb
