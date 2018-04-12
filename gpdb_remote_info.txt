@@ -1,1 +1,1 @@
-master,https://github.com/greenplum-db/gpdb
+avoid-collision-w-std-macros-use-enum,https://github.com/d/gpdb
