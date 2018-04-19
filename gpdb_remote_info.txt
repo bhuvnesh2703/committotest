@@ -1,1 +1,1 @@
-fix-quals,https://github.com/bhuvnesh2703/gpdb
+fix-quals-5x,https://github.com/bhuvnesh2703/gpdb
