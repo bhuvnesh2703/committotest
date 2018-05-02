@@ -1,1 +1,1 @@
-temp-col,https://github.com/bhuvnesh2703/gporca
+temp-coll,https://github.com/bhuvnesh2703/gporca
